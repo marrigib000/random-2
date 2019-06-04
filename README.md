@@ -8,4 +8,4 @@ Word Word Word Word Word Word Word Word
 * *Slanted Word*
 * **Bolded Word**
 
-![image of words](https://raw.githubusercontent.com/marrigib000/random-2/master/Screen%20Shot%202019-06-04%20at%2012.48.21%20PM.png)
+[My Friends Channel](https://www.youtube.com/channel/UCeVANx3HjnkccxDk5yw02OQ)
