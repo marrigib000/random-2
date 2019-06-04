@@ -1,2 +1,9 @@
 # random-2
-practice
+# Write Text Here
+
+
+### Insert Subtitle
+
+Word Word Word Word Word Word Word Word
+* *Slanted Word*
+* **Bolded Word**
